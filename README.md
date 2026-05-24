@@ -59,6 +59,14 @@ Olá! Me chamo Lucas Viana da Silva. Minha trajetória na tecnologia começou no
 />
 <img 
     align="left" 
+    alt="Next"
+    title="Next" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/next-original.svg" 
+    />
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
